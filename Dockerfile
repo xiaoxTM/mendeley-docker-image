@@ -1,4 +1,4 @@
-FROM ubuntu:16.04
+FROM ubuntu:bionic
 ENV DEBIAN_FRONTEND noninteractive
 LABEL maintainer "Renwu Gao <gilyou.public@gmail.com>"
 
